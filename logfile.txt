@@ -1,0 +1,28 @@
+2025-Sep-22-04:09:43,ETL STARTED
+2025-Sep-22-04:09:43,Extract phase Started
+2025-Sep-22-04:09:43,Extract phase Ended
+2025-Sep-22-04:09:43,Transform phase Started
+2025-Sep-22-04:09:44,Transform phase Ended
+2025-Sep-22-04:09:44,Load phase Started
+2025-Sep-22-04:10:08,ETL STARTED
+2025-Sep-22-04:10:08,Extract phase Started
+2025-Sep-22-04:10:09,Extract phase Ended
+2025-Sep-22-04:10:09,Transform phase Started
+2025-Sep-22-04:10:10,Transform phase Ended
+2025-Sep-22-04:10:10,Load phase Started
+2025-Sep-22-04:10:58,ETL STARTED
+2025-Sep-22-04:10:58,Extract phase Started
+2025-Sep-22-04:10:59,Extract phase Ended
+2025-Sep-22-04:10:59,Transform phase Started
+2025-Sep-22-04:11:00,Transform phase Ended
+2025-Sep-22-04:11:00,Load phase Started
+2025-Sep-22-04:11:16,Load phase Ended
+2025-Sep-22-04:11:16,ETL Job Ended
+2025-Sep-22-04:34:01,ETL STARTED
+2025-Sep-22-04:34:01,Extract phase Started
+2025-Sep-22-04:34:02,Extract phase Ended
+2025-Sep-22-04:34:02,Transform phase Started
+2025-Sep-22-04:34:03,Transform phase Ended
+2025-Sep-22-04:34:03,Load phase Started
+2025-Sep-22-04:34:19,Load phase Ended
+2025-Sep-22-04:34:19,ETL Job Ended

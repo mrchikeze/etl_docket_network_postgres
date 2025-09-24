@@ -28,14 +28,15 @@
         -- name my_postgres_conn \
         -- network my_etl_network \
         -e POSTGRES_USER = postgres \
-        -e POSTGRES_PASWWORD = chika \
+        -e POSTGRES_PASWWORD = your password \
         -e POSTGRES_DB = my_etl_db \
         postgres:15
 
     ## Update in my .env
     I changed my "host" value to my_postgres_conn (the name of my postgres container). The previous value was "localhost".
 
-    i pushed my .env files (because no real secrets there just local db.) you can use .gitignore to prevent sharing your private files on github.
+    I pushed my .env files (because no real secrets there just local db.) you can use .gitignore to prevent sharing your private files on github.
+    also ensure zou put zour own password.
 
 
 

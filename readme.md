@@ -1,3 +1,5 @@
+
+![Screenshot of Result](image/design.png)
 # STEPS IN IMPLEMENTING THIS PROJECT IN DOCKER
     After writing the simple etl scripts to extract patients info from the csv container 10k+ records, transfromed it by cleaning, selecting the needed records, doing a simple modelling into two dim tables and calculating BMI (body Mass Index) to know the patients, that are obese, overweight or underweight. I needed to dockerize it, below are the steps taken and how to run it effectively.
 
